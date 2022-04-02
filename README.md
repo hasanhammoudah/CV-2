@@ -1,3 +1,3 @@
 # CV-2
 HTML CSS
-<img src="Images/Hasan Hammoudah-modified.png" alt="Hasan Hammoudah">
+<img src="Images/Personal Website Part 3.png" alt="Hasan Hammoudah">
